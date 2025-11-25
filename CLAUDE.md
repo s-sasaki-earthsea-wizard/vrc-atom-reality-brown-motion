@@ -20,7 +20,7 @@
 
 ## Git運用
 
-- ブランチ戦略: feature/*, fix/*, refactor/*
+- ブランチ戦略: feat/*, fix/*, refactor/*
 - コミットメッセージ: 英文を使用、動詞から始める
 - PRはmainブランチへ
 
