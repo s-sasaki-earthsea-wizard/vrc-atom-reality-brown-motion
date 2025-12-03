@@ -1,29 +1,31 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>原子はどのように「発見」されたのか？ ～不規則なブラウン運動が示した原子の実在性～</title>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<link rel="stylesheet" href="dist/reset.css">
-		<link rel="stylesheet" href="dist/reveal.css">
-		<link rel="stylesheet" href="dist/theme/sky.css">
-		<link rel="stylesheet" href="styles/custom-style.css">
+	<title>原子はどのように「発見」されたのか？ ～不規則なブラウン運動が示した原子の実在性～</title>
 
-		<!-- Add KaTeX CSS and JS -->
-		<link rel="stylesheet" href="plugin/math/katex.min.css">
-		<script src="plugin/math/katex.js"></script>
-		<script src="plugin/math/math.js"></script>
+	<link rel="stylesheet" href="dist/reset.css">
+	<link rel="stylesheet" href="dist/reveal.css">
+	<link rel="stylesheet" href="dist/theme/sky.css">
+	<link rel="stylesheet" href="styles/custom-style.css">
 
-		<!-- Theme used for syntax highlighted code -->
-		<link rel="stylesheet" href="plugin/highlight/monokai.css">
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section data-markdown data-separator="---">
-					<textarea data-template>
+	<!-- Add KaTeX CSS and JS -->
+	<link rel="stylesheet" href="plugin/math/katex.min.css">
+	<script src="plugin/math/katex.js"></script>
+	<script src="plugin/math/math.js"></script>
+
+	<!-- Theme used for syntax highlighted code -->
+	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+</head>
+
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section data-markdown data-separator="---">
+				<textarea data-template>
 
 ### 原子はどのように「発見」されたのか？
 #### ～不規則なブラウン運動が示した原子の実在性～
@@ -63,19 +65,14 @@
 
 <div class="simple-box">
 
-* ブラウン運動とは何か
-* アインシュタインの理論的貢献
-* ペランの実験による検証
+* **ブラウン運動**とは何か
+* **アインシュタイン**の理論的貢献
+* **ペランの実験**による検証
+* **「見えない原子」がどのようにして「実在する」と認められたのか**
 
 </div>
 
-<br>
-
-<div class="highlight-box">
-
-* 「見えない原子」がどのようにして「実在する」と認められたのか
-
-</div>
+<img src="assets/images/Csm_Brownian-Motion_f99de6516a.png" alt="brown motion" height="300px">
 
 ---
 
@@ -84,7 +81,8 @@
 
 ---
 
-### 19世紀末の科学界：原子論 vs エネルギー論
+### 19世紀末の科学界：
+#### 原子論 vs エネルギー論
 
 <div class="simple-box">
 
@@ -92,7 +90,7 @@
   * 物質は目に見えない小さな粒子（原子・分子）からできている
   * 熱は分子の運動である
 
-* **エネルギー論派**（マッハ、オストワルトら）
+* **エネルギー論派**（マッハ、オストワルドら）
   * 原子は計算上の便宜的な概念に過ぎない
   * 直接観測できないものを「実在」とは認められない
 
@@ -105,15 +103,28 @@
 <div class="highlight-box">
 
 * 当時、原子の存在は**仮説**に過ぎなかった
+  * むしろ懐疑的な見方の方が主流だった
 * 誰も原子を直接「見た」ことがなかった
-* 科学哲学的な大論争が続いていた
+  * 驚くほど実際の物理現象を説明できても直接観測できないものを「実在」とは認められない
 
 </div>
 
-<br>
+<div class="container">
 
-> 「原子を見た者はいない。原子は便利な計算道具に過ぎない」
+<div class="col-left">
+
+> 「私は原子を信じない。人工的な便宜手段に過ぎない」
 > — エルンスト・マッハ
+
+</div>
+
+<div class="col-right">
+
+<img src="assets/images/Mach.jpg" alt="Mach" height="400px">
+
+</div>
+
+</div>
 
 ---
 
@@ -123,16 +134,22 @@
 
 * 学生時代からボルツマンの『気体論』に傾倒
 * マッハの『熱学』も読み、原子論論争を認識
-* **「分子の実在を何とかして証明したい」**
 
 </div>
 
-<br>
+<div class="container">
 
-<div class="highlight-box">
+<div class="col-left">
 
-処女論文（1901）：「毛細管現象からの結論」→ 分子間力を推論
-博士論文（1905）：「分子の大きさについて」
+> 「分子の実在を何とかして証明したい！」
+
+</div>
+
+<div class="col-right">
+
+<img src="assets/images/Einstein_patentoffice.jpg" alt="Einstein" height="400px">
+
+</div>
 
 </div>
 
@@ -142,19 +159,23 @@
 
 <div class="simple-box">
 
-アインシュタインは1905年に5つの重要な論文を発表
+アインシュタインは1905年に5つの論文を発表
 
 * 光量子仮説（光電効果の説明）
 * **ブラウン運動の理論** ← 今日の話
-* 特殊相対性理論
-* E = mc²
+* 特殊相対論
+* 質量とエネルギーの等価性: $E = mc^2$
 * 博士論文（分子の大きさ）
 
 </div>
 
 <br>
 
-→ この年、26歳のアインシュタインは物理学を根本から変えた
+<div class="highlight-box">
+
+→ 26歳のアインシュタインは物理学を根本から変える大発見を立て続けに構築した！
+
+</div>
 
 ---
 
@@ -177,8 +198,125 @@
 
 <div class="highlight-box">
 
-最初は「生命力」によるものかと考えたが...
-無機物の微粒子でも同じ運動が観察された！
+この不思議な運動の原因は何なのか？
+約80年にわたり、様々な仮説が提案され、検証された
+
+</div>
+
+---
+
+### 仮説①：🪴生命力？
+
+<div class="simple-box">
+
+* ブラウンは最初、花粉の微粒子が「生きている」のではないかと考えた
+* 花粉は植物の生殖細胞であり、生命力を持っているのかもしれない
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+**検証結果：**
+
+* **死後1世紀以上経った花粉**（標本室の古い花粉）でも同じだった！
+
+→ 生命力では説明できない
+
+</div>
+
+---
+
+### 仮説②：🌿有機物だから？
+
+<div class="simple-box">
+
+* 花粉は有機物だから特別な性質を持つのでは？
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+**検証結果：**
+
+* **石炭、岩石、金属**の微粒子でも同じ運動が観察された
+* スフィンクスの一部を削り取って実験しても同じだった（ブラウン自身が実験）
+
+→ 有機物に特有の現象ではない
+
+</div>
+
+---
+
+### 仮説③：💧液体の対流？
+
+<div class="simple-box">
+
+* 温度差による液体の対流が粒子を動かしているのでは？
+* 顕微鏡の光が液体を温めて対流を起こしているのでは？
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+**検証結果：**
+
+* 対流なら**粒子は同じ方向に流れる**はず
+* 実際は粒子ごとに**バラバラな方向**に動いている
+
+→ 対流では説明できない
+
+</div>
+
+---
+
+### 仮説④：⚡️電気的な力？
+
+<div class="simple-box">
+
+* 微粒子が帯電していて、電気的な力で動いているのでは？
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+**検証結果：**
+
+* 水中に電極を入れて電場をかけても、粒子は電極に**引き寄せられない**
+* 運動の方向は電場と無関係
+
+→ 電気的な力では説明できない
+
+</div>
+
+---
+
+### 仮説⑤：🧪化学反応？
+
+<div class="simple-box">
+
+* 樟脳船のように粒子表面の化学反応で何かが溶けて、その反作用で動いているのでは？
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+**検証結果：**
+
+* ある研究者は**2年間ずっと観察を続けた**
+* 運動は衰えることなく続いた！
+* 化学反応ならいずれ反応物が尽きて止まるはず
+
+→ 化学反応では説明できない
 
 </div>
 
@@ -188,8 +326,10 @@
 
 <div class="simple-box">
 
-* 微粒子（約1μm程度）が不規則にジグザグと動く
-* 運動は**永遠に止まらない**
+あらゆる仮説が否定された後に残った事実：
+
+* 微粒子（約1$\mu \text{m}$程度）が不規則にジグザグと動く
+* 運動は**いつまでも止まらない**
 * 温度が高いほど激しく動く
 * 粒子が小さいほど激しく動く
 
@@ -197,52 +337,34 @@
 
 <br>
 
-→ この不思議な運動の原因は何なのか？
+→ 原因不明のまま、80年近くが過ぎた...
 
 ---
 
-### 様々な仮説
-
-<div class="simple-box">
-
-* 液体の対流？ → 対流を止めても運動は続く
-* 光の影響？ → 暗闇でも運動は続く
-* 電気的な力？ → 説明がつかない
-
-</div>
-
-<br>
+### グーイの洞察（1888年）
 
 <div class="highlight-box">
 
-**グイ（Gouy, 1888年）の洞察：**
+**「ブラウン運動は熱力学第二法則で説明できない」**
 
-「ブラウン運動は熱力学第二法則（カルノーの原理）では説明がつかない」
-
-→ 分子運動論的な説明が必要では？
-
-</div>
-
----
-
-### ボルツマンの予想
-
-<div class="simple-box">
-
-ボルツマン『気体論』より：
-
-> 「気体のなかに漂う微粒子は分子の熱運動に突き動かされるが、
-> その運動は小さくて観察できない」
+* ブラウン運動は外部からエネルギーを供給せずにいつまでも続く
+* 見えない分子の衝突が原因かもしれない
 
 </div>
 
-<br>
+<div class="container">
 
-<div class="highlight-box">
+<div class="col-left">
 
-しかしアインシュタインは主張した：
+> ブラウン運動ってカルノーの原理と矛盾するよね？
 
-**「大きさ1μm程度の微粒子の運動は顕微鏡で見える！」**
+</div>
+
+<div class="col-right">
+
+<img src="assets/images/Louis_georges_gouy.jpg" alt="Gouy" height="400px">
+
+</div>
 
 </div>
 
@@ -257,10 +379,10 @@
 
 <div class="simple-box">
 
-**従来のアプローチ：**
+**🌀 従来のアプローチ：**
 * 個々の粒子の軌跡を追跡しようとする
-* 瞬間の速度を測定しようとする
-* → 変化が速すぎて測定不可能！
+* 瞬間瞬間の運動を観察
+* 規則性がなく理論的に捉えられない！
 
 </div>
 
@@ -268,27 +390,33 @@
 
 <div class="highlight-box">
 
-**アインシュタインのアプローチ：**
+**💡アインシュタインのアプローチ：**
 * 多数の粒子の**統計的振る舞い**に注目
-* 個別の軌跡ではなく、**変位の統計量**を考える
+* 個別の粒子の軌跡ではなく、粒子の集団的な**変位の統計量**を考える
 
 </div>
 
 ---
 
-### 「速度は測れない、しかし変位の統計は測れる」
+### ブラウン運動の統計
 
 <div class="simple-box">
 
-* ブラウン粒子の速度はめまぐるしく変化する
+* ブラウン粒子の移動方向、速度はめまぐるしく変化する
 * 瞬間速度の測定は事実上不可能
 * しかし「一定時間後にどれだけ動いたか」は測定できる！
+  * 1回コインを投げた時の裏表は予測不可能
+  * 100万回投げた時の裏表の数は一定範囲で予測可能
 
 </div>
 
 <br>
 
-→ 問題を**統計力学**の枠組みで捉え直した
+<div class="highlight-box">
+
+* 問題を**統計力学**の枠組みで捉え直した！
+
+</div>
 
 ---
 
@@ -296,7 +424,7 @@
 
 <div class="simple-box">
 
-**フィックの法則：** 微粒子は濃度の高い方から低い方へ拡散する
+微粒子は濃度の高い方から低い方へ拡散する
 
 $$\text{粒子の流れ} = -D \frac{d\rho}{dx}$$
 
@@ -309,6 +437,7 @@ $$\text{粒子の流れ} = -D \frac{d\rho}{dx}$$
 <div class="highlight-box">
 
   * 鉄板をバーナーで熱するとバーナー付近が最も熱くなり、離れるほど温度が下がる (**熱伝導！**)
+  * 粒子の集団的な振る舞いを捉える
 
 </div>
 
@@ -320,58 +449,207 @@ $$\text{粒子の流れ} = -D \frac{d\rho}{dx}$$
 
 **ストークスの法則：** 粘性流体中を動く球には抵抗力がはたらく
 
-$$\text{抵抗力} = -6\pi a \mu v$$
+$$\text{抵抗力} = -6\pi \eta r v$$
 
-（$a$：粒子半径、$\mu$：粘性係数、$v$：速度）
-
-</div>
-
----
-
-### 外力という「補助線」
-
-<div class="simple-box">
-
-アインシュタインは巧妙な思考実験を行った：
-
-* 微粒子たちに一様な外力 $K$ がはたらいているとする
-* 外力による移動と、拡散による移動がつりあう条件を考える
-
-</div>
-
----
-
-<div class="highlight-box">
-
-この「補助線」により、拡散係数 $D$ と粘性係数 $\mu$ を結びつけた！
-
-$$D = \frac{kT}{6\pi a \mu}$$
-
-（$k$：ボルツマン定数、$T$：温度）
-
-</div>
-
----
-
-### 揺動散逸定理の原型
-
-<div class="highlight-box">
-
-$$D = \frac{kT}{6\pi a \mu}$$
+（$r$：粒子半径、$\eta$：粘性係数、$v$：速度）
 
 </div>
 
 <br>
 
+<div class="highlight-box">
+
+  * 個別の粒子の振る舞いを捉える
+
+</div>
+
+---
+
+### アインシュタイン-ストークスの式
+
 <div class="simple-box">
 
-この式が意味すること：
+* 微粒子たちに外力 $F$ が働いているとする
+* 外力と粘性抵抗が釣り合う (水を落下するボールは速度一定になる)
+* さらに粘性抵抗と拡散による移動が釣り合うとき
 
-* **$D$（拡散係数）**：揺らぎ・ランダムな運動を支配
-* **$\mu$（粘性係数）**：エネルギーの散逸を支配
-* **$kT$**：熱エネルギーのスケール
+</div>
 
-→ 揺らぎと散逸が温度を介して結びついている！
+<br>
+
+<div class="highlight-box">
+
+$$ \text{外力による流れ} = \text{拡散による流れ} $$
+$$ \dfrac{\rho F}{6 \pi \eta r} = D \dfrac{\partial \rho}{\partial x} $$
+
+</div>
+
+---
+
+### 沈降平衡
+
+<div class="simple-box">
+
+* 粒子密度は高さによって指数的に減少する
+  * 気圧の高度分布から知られていた
+
+</div>
+
+<img src="assets/images/A-micrograph-taken-by-J-Perrin-of-the-sedimentation-diffusion-equilibrium-of-resin.png" alt="colloid density" height="380px">
+
+<div class="caption">Credit: Colloidal Aggregation Coupled with Sedimentation: A Comprehensive Overview, DOI:10.5772/65699</div>
+
+---
+
+### 沈降平衡の分布
+
+<div class="simple-box">
+
+$$ \rho = \rho_0 \exp\left(-\frac{mgx}{k_B T}\right) = \rho_0 \exp\left(-\frac{U(x)}{k_B T}\right)$$
+
+($k_B$：ボルツマン定数、$T$：温度、$U(x)$：ポテンシャルエネルギー)
+
+</div>
+
+---
+
+### 沈降平衡と外力
+
+<div class="simple-box">
+
+外力$F = -\dfrac{dU(x)}{dx}$なので
+
+$$ \dfrac{\partial \rho}{\partial x} = -\dfrac{\rho}{k_B T} \dfrac{dU(x)}{dx} = \dfrac{\rho F}{k_B T} $$
+
+$$ \Rightarrow \rho F = k_B T \dfrac{\partial \rho}{\partial x} $$
+
+</div>
+
+---
+
+### 外力を粘性抵抗と拡散の式に代入
+
+<div class="simple-box">
+
+* 外力: 
+
+$$ \rho F = k_B T \dfrac{\partial \rho}{\partial x} $$
+
+* 粘性抵抗と拡散の釣り合い: 
+
+$$ \dfrac{\rho F}{6 \pi \eta r} = D \dfrac{\partial \rho}{\partial x} $$
+
+</div>
+
+---
+
+### 拡散と粘性と熱の結びつき
+
+<div class="simple-box">
+
+$$ D = \frac{k_B T}{6\pi \eta r} $$
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+* $D$: マクロの世界の拡散
+* $\eta$: ミクロの世界の粘性抵抗
+* $k_B T$: 熱エネルギー
+
+→ 拡散(マクロ)と粘性(ミクロ)が熱によって結びついた！
+
+</div>
+
+---
+
+### 拡散方程式
+
+<div class="simple-box">
+
+$$ \dfrac{\partial \rho}{\partial t} = D \dfrac{\partial^2 \rho}{\partial x^2} $$
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+拡散方程式の解はガウス分布
+
+$$ \rho(x,t) = \frac{1}{\sqrt{4\pi Dt}} \exp\left(-\frac{x^2}{4Dt}\right) $$
+
+</div>
+
+---
+
+### 確率密度関数と期待値
+
+<div class="simple-box">
+
+確率密度関数$\rho(x,t)$の期待値は変数と確率密度関数の積の積分で得られる
+
+$$ \langle x \rangle = \int_{-\infty}^{\infty} x \rho(x,t) dx $$
+
+$ \langle x \rangle$: 期待値
+
+</div>
+
+---
+
+### 拡散の変位の期待値
+
+<div class="simple-box">
+
+確率密度関数$\rho(x,t)$がガウス分布の時、変位の期待値$\langle \Delta x \rangle$は
+
+$$ \rho(x,t) = \frac{1}{\sqrt{4\pi Dt}} \exp\left(-\frac{x^2}{4Dt}\right) $$
+
+$$ \Rightarrow \langle \Delta x \rangle = \int_{-\infty}^{\infty} x \rho(x,t) dx = 0$$
+
+</div>
+
+---
+
+### 変位の期待値から何がわかるか？
+
+<div class="simple-box">
+
+* 変位の期待値$\langle \Delta x \rangle = 0$なので、粒子は平均的には移動しない
+* 右に行ったり左に行ったりするので平均を取るとプラスマイナスでキャンセルしあって0になる
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+* 変位の平均を取るとうまくいかない
+* でも二乗平均なら？
+  * 統計でもよくある考え方、分散は平均からのズレの二乗をとって計算される
+
+</div>
+
+---
+
+### 変位の二乗平均
+
+<div class="simple-box">
+
+変位の二乗平均$\langle (\Delta x)^2 \rangle$は
+
+$$ \langle (\Delta x)^2 \rangle = \int_{-\infty}^{\infty} x^2 \rho(x,t) dx = 2Dt$$
+
+</div>
+
+<br>
+
+<div class="highlight-box">
+
+* 変位の平均は0になる
+* **しかし二乗平均は時間に比例する！**
 
 </div>
 
@@ -399,7 +677,7 @@ $$\langle (\Delta x)^2 \rangle = 2Dt$$
 
 ---
 
-### 具体的な数値予測
+### 水の拡散係数の計算
 
 <div class="simple-box">
 
@@ -407,11 +685,25 @@ $$\langle (\Delta x)^2 \rangle = 2Dt$$
 
 * 粒子の直径：$2a = 1 \mu m$
 * 温度：$T = 17°C$
-* 水の粘性係数：$\mu = 1.35 \times 10^{-2}$ g/(cm·s)
+* 水の粘性係数：$\eta = 1.35 \times 10^{-2}$ g/(cm·s)
+
+$$ D \simeq 3.15 \times 10^{-6} \text{cm}^2/\text{s} $$
 
 </div>
 
-<br>
+---
+
+### 平均二乗変位の予測
+
+<div class="simple-box">
+
+$t = 30$ 秒のとき、
+
+$$ \sqrt{\langle (\Delta x)^2 \rangle} = \sqrt{2Dt} \simeq 4.3 \mu \text{m} $$
+
+</div>
+
+---
 
 <div class="highlight-box">
 
@@ -550,7 +842,7 @@ $$\langle (\Delta x)^2 \rangle = 2Dt$$
 
 </div>
 
-<br>
+---
 
 <div class="highlight-box">
 
@@ -691,27 +983,52 @@ $$N_A = \frac{R}{k}$$
 
 </div>
 
+---
+
+### 揺動散逸定理の原型
+
+<div class="highlight-box">
+
+$$D = \frac{k_B T}{6\pi \eta r}$$
+
+</div>
+
+<br>
+
+<div class="simple-box">
+
+この式が意味すること：
+
+* **$D$（拡散係数）**：揺らぎ・ランダムな運動を支配
+* **$\mu$（粘性係数）**：エネルギーの散逸を支配
+* **$kT$**：熱エネルギーのスケール
+
+→ 揺らぎと散逸が温度を介して結びついている！
+
+</div>
+
 <img src="assets/images/qrcode.png" width="200px">
 
 					</textarea>
-				</section>
-			</div>
+			</section>
 		</div>
+	</div>
 
-		<script src="dist/reveal.js"></script>
-		<script src="plugin/notes/notes.js"></script>
-		<script src="plugin/markdown/markdown.js"></script>
-		<script src="plugin/highlight/highlight.js"></script>
-		<script>
-			// More info about initialization & config:
-			// - https://revealjs.com/initialization/
-			// - https://revealjs.com/config/
-			Reveal.initialize({
-				hash: true,
+	<script src="dist/reveal.js"></script>
+	<script src="plugin/notes/notes.js"></script>
+	<script src="plugin/markdown/markdown.js"></script>
+	<script src="plugin/highlight/highlight.js"></script>
+	<script>
+		// More info about initialization & config:
+		// - https://revealjs.com/initialization/
+		// - https://revealjs.com/config/
+		Reveal.initialize({
+			hash: true,
 
-				// Learn about plugins: https://revealjs.com/plugins/
-				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
-			});
-		</script>
-	</body>
+			// Learn about plugins: https://revealjs.com/plugins/
+			plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX]
+		});
+	</script>
+</body>
+
 </html>
