@@ -10,3 +10,7 @@ tmp/**
 node_modules/
 .sass-cache
 .claude
+/media/*
+__pycache__
+*.mp4
+*.gif
