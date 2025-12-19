@@ -8,6 +8,9 @@
 
 この動画では、アインシュタインが1905年に発表した理論と、ペランによる精密な実験が、どのようにして「見えない原子」を「見える現象」にしたのかを解説します。
 
+以下の動画を引用しています
+https://www.youtube.com/shorts/TPHcEEs7qIg
+
 🔬 この動画でわかること
 ・ブラウン運動とは何か？80年間謎だった不思議な現象
 ・19世紀の科学論争：原子論 vs エネルギー論
@@ -16,7 +19,7 @@
 ・ペランの精密実験：理論の検証とアボガドロ数の決定
 ・科学史における意義：「見えないもの」をいかに証明するか
 
-【目次】
+【目次】  # タイムスタンプはプレースホルダーであることに注意！
 0:00｜オープニング：原子は実在するのか？
 0:30｜19世紀の科学論争：原子論 vs エネルギー論
 2:00｜ブラウン運動の発見と様々な仮説
@@ -26,10 +29,10 @@
 10:00｜拡散方程式と変位の二乗平均
 12:00｜ペランの実験：理論の検証
 14:00｜アボガドロ数の決定と原子論の確立
-16:00｜まとめ：科学史における意義
+16:00｜まとめ
 
 🗒️ スライドはこちら
-→ （スライド公開後にURLを追加）
+→ https://speakerdeck.com/syotasasaki593876/yuan-zi-hadonoyouni-fa-jian-saretanoka-bu-gui-ze-naburaunyun-dong-gashi-sitayuan-zi-noshi-zai-xing
 
 💬 コメントや感想も気軽にどうぞ！
 🔔 チャンネル登録もしてくれたら嬉しいです！ → https://www.youtube.com/@SyotaSasaki-EW
@@ -49,8 +52,11 @@ https://lit.link/samegiraffe
 音楽：BGMer
 http://bgmer.net
 
-フリーBGM [角砂糖をもうひとつ]: https://youtu.be/C-BPLNilIhM?si=AwYN9diy2OcaNp6X
-フリーBGM [眠れる世界樹]: https://youtu.be/e4gggZ9Louc?si=Er97iMneay5Vjtj1
+・ フリーBGM [角砂糖をもうひとつ]: https://youtu.be/C-BPLNilIhM?si=AwYN9diy2OcaNp6X
+・ フリーBGM [眠れる世界樹]: https://youtu.be/e4gggZ9Louc?si=Er97iMneay5Vjtj1
+
+📺 スマブラパロディ画像の作成には以下のサイトを利用しました
+・ https://devroom.azurewebsites.net/Generator/SmashbrosNewcomer
 
 🔑 キーワード（SEO対策用）
 #ブラウン運動 #原子 #アインシュタイン #ペラン #アボガドロ数 #統計力学 #拡散 #物理学 #科学史
