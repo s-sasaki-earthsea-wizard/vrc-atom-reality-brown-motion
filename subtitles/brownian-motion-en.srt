@@ -1,0 +1,643 @@
+1
+00:00:00,900 --> 00:00:03,033
+Here's a sudden question for you
+
+2
+00:00:03,600 --> 00:00:08,200
+Do you believe atoms really exist?
+
+3
+00:00:08,733 --> 00:00:11,833
+"Of course they do!" you might think, right?
+
+4
+00:00:12,400 --> 00:00:16,233
+But actually, just over 120 years ago,
+
+5
+00:00:16,466 --> 00:00:19,933
+even among scientists, "Atoms don't exist!"
+
+6
+00:00:20,466 --> 00:00:23,066
+"They're just a convenient calculation tool!"
+
+7
+00:00:23,300 --> 00:00:25,533
+was the prevailing opinion
+
+8
+00:00:26,400 --> 00:00:31,500
+Today, we'll explore how the mysterious motion of tiny particles released from pollen floating on water
+
+9
+00:00:31,900 --> 00:00:35,166
+proved the existence of atoms
+
+10
+00:00:35,566 --> 00:00:38,666
+Let me tell you this amazing story
+
+11
+00:00:41,766 --> 00:00:44,633
+Let's start with the historical background
+
+12
+00:00:45,533 --> 00:00:50,566
+At the end of the 19th century, the scientific world was in the midst of a great debate
+
+13
+00:00:51,500 --> 00:00:56,700
+On one side were the atomists, like Boltzmann, who argued:
+
+14
+00:00:58,100 --> 00:01:06,466
+"Matter is made of invisible tiny particles—what we now call atoms and molecules—
+
+15
+00:01:06,466 --> 00:01:12,700
+and heat is the motion of these molecules"
+
+16
+00:01:13,266 --> 00:01:16,066
+That's what the atomists believed
+
+17
+00:01:17,000 --> 00:01:19,800
+But the opposition was also powerful
+
+18
+00:01:20,600 --> 00:01:23,766
+The energeticists, Mach and Ostwald, argued:
+
+19
+00:01:24,633 --> 00:01:28,766
+"Atoms are merely a convenient concept for calculations"
+
+20
+00:01:29,333 --> 00:01:36,300
+"How can you claim something exists if you can't directly observe it!"
+
+21
+00:01:37,733 --> 00:01:43,766
+In fact, Ernst Mach, one of the energeticists, stated clearly:
+
+22
+00:01:44,500 --> 00:01:49,866
+"I do not believe in atoms; they are merely an artificial, useful device"
+
+23
+00:01:50,533 --> 00:01:55,333
+Hmm, when you think about it, their argument makes sense, doesn't it?
+
+24
+00:01:56,033 --> 00:02:01,000
+Indeed, no one had ever directly 'seen' an atom
+
+25
+00:02:02,066 --> 00:02:06,400
+Let's go back a bit in time to 1827
+
+26
+00:02:07,200 --> 00:02:12,800
+British botanist Robert Brown discovered a strange phenomenon
+
+27
+00:02:13,833 --> 00:02:18,033
+When he placed pollen on water and observed it under a microscope,
+
+28
+00:02:18,733 --> 00:02:23,400
+tiny particles released from the pollen kept moving in zigzag patterns on their own
+
+29
+00:02:24,033 --> 00:02:26,133
+As if they were alive
+
+30
+00:02:26,966 --> 00:02:29,900
+Is it because the pollen is alive?
+
+31
+00:02:30,633 --> 00:02:32,700
+Brown initially thought so
+
+32
+00:02:33,833 --> 00:02:39,100
+But even pollen from specimens over 100 years old moved the same way
+
+33
+00:02:40,300 --> 00:02:42,000
+It wasn't life force
+
+34
+00:02:42,633 --> 00:02:45,833
+Then is it special because it's organic matter?
+
+35
+00:02:46,700 --> 00:02:51,833
+He experimented with particles of coal, rock, and metal
+
+36
+00:02:52,500 --> 00:02:56,466
+Remarkably, even particles scraped from the Sphinx moved the same way
+
+37
+00:02:57,166 --> 00:02:59,500
+Whether it's organic or not doesn't matter
+
+38
+00:03:00,233 --> 00:03:03,800
+After that, various hypotheses were proposed
+
+39
+00:03:04,400 --> 00:03:08,766
+The particles moved in random directions, so it wasn't convection
+
+40
+00:03:09,633 --> 00:03:13,666
+They weren't attracted to electrodes, so it wasn't electrical force
+
+41
+00:03:14,433 --> 00:03:19,533
+The motion didn't weaken even after two years of observation,
+
+42
+00:03:19,533 --> 00:03:22,866
+so it wasn't a chemical reaction like a camphor boat
+
+43
+00:03:23,600 --> 00:03:31,966
+For about 80 years after the 1827 discovery, no one could explain this mysterious motion
+
+44
+00:03:33,500 --> 00:03:39,866
+In 1888, French physicist Louis Georges Gouy
+
+45
+00:03:40,266 --> 00:03:48,900
+made a crucial insight: "Brownian motion cannot be explained by the second law of thermodynamics"
+
+46
+00:03:49,866 --> 00:03:57,033
+Today we understand that Brownian motion doesn't contradict the second law of thermodynamics,
+
+47
+00:03:57,466 --> 00:04:05,333
+but indeed, "particles that keep moving forever" might seem like a perpetual motion machine
+
+48
+00:04:06,733 --> 00:04:11,833
+In 1905, a 26-year-old Einstein enters the scene
+
+49
+00:04:12,733 --> 00:04:20,000
+Einstein had read both Boltzmann's and Mach's books, learned about the atomic debate,
+
+50
+00:04:20,333 --> 00:04:24,166
+and wanted to prove the existence of atoms
+
+51
+00:04:24,766 --> 00:04:32,233
+That year, he published five important papers that fundamentally changed physics
+
+52
+00:04:33,300 --> 00:04:45,000
+The theory of the photoelectric effect, special relativity, the famous E=mc² equation showing mass-energy equivalence,
+
+53
+00:04:45,666 --> 00:04:50,533
+and today's main topic—the theory of Brownian motion
+
+54
+00:04:51,733 --> 00:04:55,833
+Any single one of these would have made history,
+
+55
+00:04:56,166 --> 00:04:59,366
+yet he published them all in succession within one year
+
+56
+00:05:00,000 --> 00:05:05,533
+1905 later became known as the "Miracle Year"
+
+57
+00:05:07,100 --> 00:05:09,900
+Einstein's approach was revolutionary
+
+58
+00:05:11,133 --> 00:05:17,833
+Previous approaches tried to track the movement of individual particles moving in random directions
+
+59
+00:05:19,100 --> 00:05:26,733
+But just tracking individual particles only revealed that the motion was irregular—nothing more
+
+60
+00:05:28,166 --> 00:05:32,133
+But Einstein focused not on individual movements,
+
+61
+00:05:32,133 --> 00:05:36,800
+but on statistical behavior
+
+62
+00:05:37,833 --> 00:05:39,966
+This is similar to coin flipping
+
+63
+00:05:40,733 --> 00:05:42,900
+A single result is unpredictable
+
+64
+00:05:43,600 --> 00:05:48,966
+Heads or tails is 50-50, so you can only guess
+
+65
+00:05:49,633 --> 00:05:56,233
+But if you flip a million times, you can predict it'll be roughly half and half, right?
+
+66
+00:05:57,133 --> 00:06:02,833
+Similarly, while you can't know how a single particle will move in the next instant,
+
+67
+00:06:03,266 --> 00:06:07,233
+you should be able to predict how far it will travel over time
+
+68
+00:06:08,333 --> 00:06:14,000
+Einstein connected Fick's law—the macroscopic diffusion law—
+
+69
+00:06:14,400 --> 00:06:21,566
+with Stokes' law—the microscopic viscous resistance—through thermal energy
+
+70
+00:06:22,800 --> 00:06:26,433
+And this is the equation he derived
+
+71
+00:06:27,533 --> 00:06:34,666
+It was the moment when the invisible world of atoms was connected to visible particle motion through temperature
+
+72
+00:06:35,600 --> 00:06:39,400
+Einstein then had another brilliant insight
+
+73
+00:06:40,300 --> 00:06:46,366
+Traditionally, the diffusion equation described how many particles spread out
+
+74
+00:06:47,366 --> 00:06:49,500
+But Einstein reinterpreted it
+
+75
+00:06:50,066 --> 00:06:57,266
+as a probability question: "Where is a single particle most likely to be?"
+
+76
+00:06:58,200 --> 00:07:00,833
+This shift in perspective was key
+
+77
+00:07:01,900 --> 00:07:04,833
+Since a particle moves right and left,
+
+78
+00:07:05,433 --> 00:07:08,300
+the average of its displacement becomes zero
+
+79
+00:07:09,100 --> 00:07:11,700
+The positives and negatives cancel out
+
+80
+00:07:12,700 --> 00:07:15,733
+But what about the average of the squared distance?
+
+81
+00:07:16,466 --> 00:07:20,133
+Squaring always gives a positive value,
+
+82
+00:07:20,533 --> 00:07:23,800
+so the positives and negatives don't cancel out
+
+83
+00:07:25,000 --> 00:07:27,600
+And this is the equation Einstein derived
+
+84
+00:07:27,833 --> 00:07:32,200
+for the mean squared displacement of Brownian motion
+
+85
+00:07:33,233 --> 00:07:34,733
+This is amazing!
+
+86
+00:07:35,366 --> 00:07:40,000
+The mean squared displacement is proportional to time
+
+87
+00:07:40,000 --> 00:07:48,033
+Calculating specifically, the distance traveled in 30 seconds is about 4.3 μm
+
+88
+00:07:48,766 --> 00:07:53,933
+This was large enough to be observed with microscopes of that era
+
+89
+00:07:54,700 --> 00:07:56,233
+Think about it
+
+90
+00:07:57,133 --> 00:08:03,333
+Atoms are about 0.1 to 0.3 nm in size
+
+91
+00:08:04,066 --> 00:08:10,233
+Yet they became observable in the micrometer world, tens of thousands of times larger
+
+92
+00:08:11,533 --> 00:08:14,900
+Einstein wrote at the end of his paper:
+
+93
+00:08:15,933 --> 00:08:21,133
+"I hope that some researcher will soon undertake to solve this problem"
+
+94
+00:08:21,933 --> 00:08:28,400
+"If this experiment succeeds, it would provide new and powerful evidence for atomic theory"
+
+95
+00:08:29,333 --> 00:08:35,833
+In other words, "Could someone good at experiments please verify this!"
+
+96
+00:08:36,933 --> 00:08:42,233
+The French physicist Jean Perrin took up that challenge
+
+97
+00:08:43,366 --> 00:08:45,966
+But the experiments were extremely difficult
+
+98
+00:08:47,033 --> 00:08:53,100
+To verify the theory, the particles needed to be perfectly uniform in size
+
+99
+00:08:53,666 --> 00:08:56,666
+Perrin's ingenuity was remarkable
+
+100
+00:08:57,533 --> 00:09:05,166
+He created particles of gamboge—a yellow resin used in paints—through three stages of centrifugation
+
+101
+00:09:05,466 --> 00:09:10,433
+He prepared particles uniformly sized at 0.3 μm
+
+102
+00:09:10,766 --> 00:09:15,566
+What Perrin observed was a phenomenon called sedimentation equilibrium
+
+103
+00:09:16,000 --> 00:09:20,166
+Air becomes thinner at high mountain altitudes, right?
+
+104
+00:09:20,800 --> 00:09:24,900
+This was already known in the 19th century,
+
+105
+00:09:25,400 --> 00:09:30,133
+and Boltzmann explained it as air molecules being pulled by Earth's gravity,
+
+106
+00:09:30,500 --> 00:09:35,466
+becoming denser near the surface and thinner at higher altitudes
+
+107
+00:09:36,300 --> 00:09:39,700
+But since air molecules couldn't be seen,
+
+108
+00:09:40,166 --> 00:09:43,466
+his idea couldn't be verified
+
+109
+00:09:44,433 --> 00:09:49,666
+However, Perrin, by observing particles in water under a microscope,
+
+110
+00:09:50,266 --> 00:09:57,033
+attempted to verify both sedimentation equilibrium and Einstein's theory of Brownian motion
+
+111
+00:09:57,800 --> 00:10:01,166
+Then came days of painstaking experiments and observations
+
+112
+00:10:02,100 --> 00:10:06,900
+He tracked particles under the microscope and recorded their positions at regular intervals
+
+113
+00:10:07,733 --> 00:10:09,900
+Again and again
+
+114
+00:10:10,666 --> 00:10:12,533
+And the results?
+
+115
+00:10:14,100 --> 00:10:17,966
+They matched Einstein's theory exactly!
+
+116
+00:10:18,466 --> 00:10:22,900
+The mean squared displacement was indeed proportional to time
+
+117
+00:10:23,833 --> 00:10:28,933
+Upon learning of these results, Einstein sent a letter of thanks to Perrin
+
+118
+00:10:29,800 --> 00:10:35,433
+"I thought it would be impossible to measure Brownian motion with such precision"
+
+119
+00:10:36,200 --> 00:10:40,000
+"It was fortunate that you took on this work"
+
+120
+00:10:41,300 --> 00:10:45,466
+The very person who proposed the theory thought the experiment would be too difficult,
+
+121
+00:10:46,000 --> 00:10:48,266
+yet Perrin accomplished it brilliantly
+
+122
+00:10:49,100 --> 00:10:53,200
+Perrin's experiments yielded something even more important
+
+123
+00:10:53,966 --> 00:10:57,366
+By substituting experimental data into Einstein's equation,
+
+124
+00:10:57,866 --> 00:10:59,866
+the Boltzmann constant could be determined
+
+125
+00:11:00,833 --> 00:11:05,933
+And by dividing the gas constant R by the Boltzmann constant,
+
+126
+00:11:07,200 --> 00:11:12,566
+NA = 6.5 × 10^23
+
+127
+00:11:13,866 --> 00:11:17,966
+This is the number of particles in one mole of a substance—
+
+128
+00:11:18,533 --> 00:11:19,866
+Avogadro's number
+
+129
+00:11:21,033 --> 00:11:28,266
+Today, Avogadro's number is known to be approximately 6.02 × 10^23,
+
+130
+00:11:28,866 --> 00:11:32,233
+but for that time, this was an extremely accurate measurement
+
+131
+00:11:33,333 --> 00:11:39,533
+Remarkably, this value matched those obtained by completely different methods
+
+132
+00:11:40,366 --> 00:11:43,700
+Planck's blackbody radiation, radioactive decay,
+
+133
+00:11:44,000 --> 00:11:47,566
+Millikan's oil drop experiment, X-ray diffraction—
+
+134
+00:11:47,833 --> 00:11:52,966
+Avogadro's number obtained by various methods all agreed
+
+135
+00:11:53,533 --> 00:11:57,233
+This can't be explained by coincidence, can it?
+
+136
+00:11:58,333 --> 00:12:04,433
+In 1909, Ostwald, who had once denied atoms, conceded
+
+137
+00:12:05,900 --> 00:12:13,166
+"I am convinced that we have recently obtained experimental evidence for the atomic hypothesis"
+
+138
+00:12:14,066 --> 00:12:18,400
+"I no longer have any reason to oppose the atomic hypothesis"
+
+139
+00:12:19,333 --> 00:12:24,800
+In 1926, Perrin was awarded the Nobel Prize in Physics
+
+140
+00:12:25,466 --> 00:12:33,366
+The citation read: "For his work on the discontinuous structure of matter, especially for his discovery of sedimentation equilibrium"
+
+141
+00:12:34,533 --> 00:12:42,633
+The discontinuous structure of matter refers to the idea that matter is composed of small particles called atoms
+
+142
+00:12:43,733 --> 00:12:48,200
+The atomic debate ended in victory for the atomists
+
+143
+00:12:49,333 --> 00:12:56,866
+But we shouldn't mock the energeticists as stubborn people who refused to accept new ideas
+
+144
+00:12:57,766 --> 00:13:05,166
+They were simply being faithful to Occam's Razor: "One should not assume what cannot be observed"
+
+145
+00:13:06,100 --> 00:13:09,866
+Their attitude was scientifically correct
+
+146
+00:13:10,866 --> 00:13:16,466
+What made Einstein and Perrin remarkable was that they made the invisible visible
+
+147
+00:13:17,433 --> 00:13:22,500
+They demonstrated the existence of atoms in a way that had previously been impossible
+
+148
+00:13:25,500 --> 00:13:30,300
+Brownian motion was discovered in 1827,
+
+149
+00:13:30,700 --> 00:13:36,100
+and for about 80 years, the mysterious motion of tiny particles remained unexplained
+
+150
+00:13:36,866 --> 00:13:40,166
+Einstein was the one who solved it theoretically
+
+151
+00:13:41,466 --> 00:13:43,633
+Using statistical mechanics,
+
+152
+00:13:43,833 --> 00:13:49,100
+he built a theory connecting visible particles to invisible atoms
+
+153
+00:13:49,966 --> 00:13:54,133
+And Perrin, through persistent experimentation, verified the theory
+
+154
+00:13:54,666 --> 00:13:57,566
+and put an end to the atomic debate
+
+155
+00:13:58,766 --> 00:14:03,033
+The existence of atoms that we take for granted today—
+
+156
+00:14:03,566 --> 00:14:07,566
+before it became a scientifically grounded, empirically proven existence,
+
+157
+00:14:08,033 --> 00:14:12,700
+it required the accumulated efforts and ingenuity of many people
+
+158
+00:14:13,866 --> 00:14:16,400
+Making the invisible visible—
+
+159
+00:14:17,200 --> 00:14:22,600
+more recent examples include neutrino oscillations and gravitational waves
+
+160
+00:14:23,500 --> 00:14:27,466
+I hope some of that romance of science has come through
+
+161
+00:14:28,333 --> 00:14:31,933
+Until the next video, take care!

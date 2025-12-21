@@ -1,0 +1,643 @@
+1
+00:00:00,900 --> 00:00:03,033
+Una pregunta repentina
+
+2
+00:00:03,600 --> 00:00:08,200
+¿Crees que los átomos realmente existen?
+
+3
+00:00:08,733 --> 00:00:11,833
+"¡Por supuesto que sí!" pensarás, ¿verdad?
+
+4
+00:00:12,400 --> 00:00:16,233
+Pero en realidad, hace apenas poco más de 120 años,
+
+5
+00:00:16,466 --> 00:00:19,933
+incluso entre los científicos, "¡Los átomos no existen!"
+
+6
+00:00:20,466 --> 00:00:23,066
+"¡Son solo una herramienta conveniente para los cálculos!"
+
+7
+00:00:23,300 --> 00:00:25,533
+era la opinión predominante
+
+8
+00:00:26,400 --> 00:00:31,500
+Hoy exploraremos cómo el misterioso movimiento de diminutas partículas liberadas por el polen flotando en el agua
+
+9
+00:00:31,900 --> 00:00:35,166
+demostró la existencia de los átomos
+
+10
+00:00:35,566 --> 00:00:38,666
+Permítanme contarles esta asombrosa historia
+
+11
+00:00:41,766 --> 00:00:44,633
+Comencemos con el contexto histórico
+
+12
+00:00:45,533 --> 00:00:50,566
+A finales del siglo XIX, el mundo científico estaba en medio de un gran debate
+
+13
+00:00:51,500 --> 00:00:56,700
+Por un lado estaban los atomistas, como Boltzmann, quienes argumentaban:
+
+14
+00:00:58,100 --> 00:01:06,466
+"La materia está compuesta de partículas diminutas invisibles —lo que ahora llamamos átomos y moléculas—
+
+15
+00:01:06,466 --> 00:01:12,700
+y el calor es el movimiento de estas moléculas"
+
+16
+00:01:13,266 --> 00:01:16,066
+Eso es lo que creían los atomistas
+
+17
+00:01:17,000 --> 00:01:19,800
+Pero la oposición también era fuerte
+
+18
+00:01:20,600 --> 00:01:23,766
+Los energetistas Mach y Ostwald argumentaban:
+
+19
+00:01:24,633 --> 00:01:28,766
+"Los átomos son meramente un concepto conveniente para los cálculos"
+
+20
+00:01:29,333 --> 00:01:36,300
+"¡Cómo puedes afirmar que existe algo que no puedes observar directamente!"
+
+21
+00:01:37,733 --> 00:01:43,766
+De hecho, Ernst Mach, uno de los energetistas, declaró claramente:
+
+22
+00:01:44,500 --> 00:01:49,866
+"No creo en los átomos; son meramente un artificio útil"
+
+23
+00:01:50,533 --> 00:01:55,333
+Hmm, pensándolo bien, su argumento tiene sentido, ¿no?
+
+24
+00:01:56,033 --> 00:02:01,000
+De hecho, nadie había "visto" directamente un átomo jamás
+
+25
+00:02:02,066 --> 00:02:06,400
+Retrocedamos un poco en el tiempo hasta 1827
+
+26
+00:02:07,200 --> 00:02:12,800
+El botánico británico Robert Brown descubrió un fenómeno extraño
+
+27
+00:02:13,833 --> 00:02:18,033
+Al colocar polen en agua y observarlo bajo el microscopio,
+
+28
+00:02:18,733 --> 00:02:23,400
+las diminutas partículas liberadas del polen se movían continuamente en zigzag por sí solas
+
+29
+00:02:24,033 --> 00:02:26,133
+Como si estuvieran vivas
+
+30
+00:02:26,966 --> 00:02:29,900
+¿Será porque el polen está vivo?
+
+31
+00:02:30,633 --> 00:02:32,700
+Brown pensó eso inicialmente
+
+32
+00:02:33,833 --> 00:02:39,100
+Pero incluso el polen de especímenes de más de 100 años se movía igual
+
+33
+00:02:40,300 --> 00:02:42,000
+No era fuerza vital
+
+34
+00:02:42,633 --> 00:02:45,833
+¿Entonces es especial porque es materia orgánica?
+
+35
+00:02:46,700 --> 00:02:51,833
+Experimentó con partículas de carbón, roca y metal
+
+36
+00:02:52,500 --> 00:02:56,466
+Sorprendentemente, incluso las partículas raspadas de la Esfinge se movían igual
+
+37
+00:02:57,166 --> 00:02:59,500
+Que sea orgánico o no, no importa
+
+38
+00:03:00,233 --> 00:03:03,800
+Después de eso, se propusieron varias hipótesis
+
+39
+00:03:04,400 --> 00:03:08,766
+Las partículas se movían en direcciones aleatorias, así que no era convección
+
+40
+00:03:09,633 --> 00:03:13,666
+No eran atraídas por los electrodos, así que no era fuerza eléctrica
+
+41
+00:03:14,433 --> 00:03:19,533
+El movimiento no disminuyó ni después de dos años de observación,
+
+42
+00:03:19,533 --> 00:03:22,866
+así que no era una reacción química como un barco de alcanfor
+
+43
+00:03:23,600 --> 00:03:31,966
+Durante unos 80 años después del descubrimiento de 1827, nadie pudo explicar este misterioso movimiento
+
+44
+00:03:33,500 --> 00:03:39,866
+En 1888, el físico francés Louis Georges Gouy
+
+45
+00:03:40,266 --> 00:03:48,900
+hizo una observación crucial: "El movimiento browniano no puede explicarse por la segunda ley de la termodinámica"
+
+46
+00:03:49,866 --> 00:03:57,033
+Hoy entendemos que el movimiento browniano no contradice la segunda ley de la termodinámica,
+
+47
+00:03:57,466 --> 00:04:05,333
+pero ciertamente, "partículas que se mueven eternamente" parecerían una máquina de movimiento perpetuo
+
+48
+00:04:06,733 --> 00:04:11,833
+En 1905, entra en escena un Einstein de 26 años
+
+49
+00:04:12,733 --> 00:04:20,000
+Einstein había leído los libros de Boltzmann y de Mach, conocía el debate atómico,
+
+50
+00:04:20,333 --> 00:04:24,166
+y quería demostrar la existencia de los átomos
+
+51
+00:04:24,766 --> 00:04:32,233
+Ese año, publicó cinco artículos importantes que cambiaron fundamentalmente la física
+
+52
+00:04:33,300 --> 00:04:45,000
+La teoría del efecto fotoeléctrico, la relatividad especial, la famosa ecuación E=mc² que muestra la equivalencia masa-energía,
+
+53
+00:04:45,666 --> 00:04:50,533
+y el tema principal de hoy: la teoría del movimiento browniano
+
+54
+00:04:51,733 --> 00:04:55,833
+Cualquiera de ellos solo habría pasado a la historia,
+
+55
+00:04:56,166 --> 00:04:59,366
+pero los publicó todos en sucesión en un solo año
+
+56
+00:05:00,000 --> 00:05:05,533
+1905 llegó a conocerse como el "Año Milagroso"
+
+57
+00:05:07,100 --> 00:05:09,900
+El enfoque de Einstein fue revolucionario
+
+58
+00:05:11,133 --> 00:05:17,833
+Los enfoques anteriores intentaban rastrear el movimiento de partículas individuales moviéndose en direcciones aleatorias
+
+59
+00:05:19,100 --> 00:05:26,733
+Pero solo rastrear partículas individuales revelaba que el movimiento era irregular, nada más
+
+60
+00:05:28,166 --> 00:05:32,133
+Pero Einstein se enfocó no en los movimientos individuales,
+
+61
+00:05:32,133 --> 00:05:36,800
+sino en el comportamiento estadístico
+
+62
+00:05:37,833 --> 00:05:39,966
+Esto es similar a lanzar una moneda
+
+63
+00:05:40,733 --> 00:05:42,900
+Un solo resultado es impredecible
+
+64
+00:05:43,600 --> 00:05:48,966
+Cara o cruz es 50-50, así que solo puedes adivinar
+
+65
+00:05:49,633 --> 00:05:56,233
+Pero si lanzas un millón de veces, puedes predecir que será aproximadamente mitad y mitad, ¿verdad?
+
+66
+00:05:57,133 --> 00:06:02,833
+De manera similar, aunque no puedes saber cómo se moverá una partícula individual en el siguiente instante,
+
+67
+00:06:03,266 --> 00:06:07,233
+deberías poder predecir cuánto se desplazará con el tiempo
+
+68
+00:06:08,333 --> 00:06:14,000
+Einstein conectó la ley de difusión macroscópica de Fick
+
+69
+00:06:14,400 --> 00:06:21,566
+con la ley de resistencia viscosa microscópica de Stokes a través de la energía térmica
+
+70
+00:06:22,800 --> 00:06:26,433
+Y esta es la ecuación que derivó
+
+71
+00:06:27,533 --> 00:06:34,666
+Fue el momento en que el mundo invisible de los átomos se conectó con el movimiento visible de las partículas a través de la temperatura
+
+72
+00:06:35,600 --> 00:06:39,400
+Einstein tuvo otra idea brillante
+
+73
+00:06:40,300 --> 00:06:46,366
+Tradicionalmente, la ecuación de difusión describía cómo se dispersan muchas partículas
+
+74
+00:06:47,366 --> 00:06:49,500
+Pero Einstein la reinterpretó
+
+75
+00:06:50,066 --> 00:06:57,266
+como una pregunta de probabilidad: "¿Dónde es más probable que esté una sola partícula?"
+
+76
+00:06:58,200 --> 00:07:00,833
+Este cambio de perspectiva fue clave
+
+77
+00:07:01,900 --> 00:07:04,833
+Como una partícula se mueve a la derecha y a la izquierda,
+
+78
+00:07:05,433 --> 00:07:08,300
+el promedio del desplazamiento se vuelve cero
+
+79
+00:07:09,100 --> 00:07:11,700
+Los positivos y negativos se cancelan
+
+80
+00:07:12,700 --> 00:07:15,733
+¿Pero qué pasa con el promedio del cuadrado de la distancia?
+
+81
+00:07:16,466 --> 00:07:20,133
+Al elevar al cuadrado siempre se obtiene un valor positivo,
+
+82
+00:07:20,533 --> 00:07:23,800
+así que los positivos y negativos no se cancelan
+
+83
+00:07:25,000 --> 00:07:27,600
+Y esta es la ecuación que Einstein derivó
+
+84
+00:07:27,833 --> 00:07:32,200
+para el desplazamiento cuadrático medio del movimiento browniano
+
+85
+00:07:33,233 --> 00:07:34,733
+¡Esto es increíble!
+
+86
+00:07:35,366 --> 00:07:40,000
+El desplazamiento cuadrático medio es proporcional al tiempo
+
+87
+00:07:40,000 --> 00:07:48,033
+Calculando específicamente, la distancia recorrida en 30 segundos es aproximadamente 4,3 μm
+
+88
+00:07:48,766 --> 00:07:53,933
+Esto era lo suficientemente grande para observarse con los microscopios de esa época
+
+89
+00:07:54,700 --> 00:07:56,233
+Piénsalo
+
+90
+00:07:57,133 --> 00:08:03,333
+Los átomos tienen un tamaño de aproximadamente 0,1 a 0,3 nm
+
+91
+00:08:04,066 --> 00:08:10,233
+Sin embargo, se volvieron observables en el mundo del micrómetro, decenas de miles de veces más grande
+
+92
+00:08:11,533 --> 00:08:14,900
+Einstein escribió al final de su artículo:
+
+93
+00:08:15,933 --> 00:08:21,133
+"Espero que algún investigador pronto resuelva este problema"
+
+94
+00:08:21,933 --> 00:08:28,400
+"Si este experimento tiene éxito, proporcionará nueva y poderosa evidencia para la teoría atómica"
+
+95
+00:08:29,333 --> 00:08:35,833
+En otras palabras: "¡Alguien bueno en experimentos, por favor verifique esto!"
+
+96
+00:08:36,933 --> 00:08:42,233
+El físico francés Jean Perrin aceptó ese desafío
+
+97
+00:08:43,366 --> 00:08:45,966
+Pero los experimentos fueron extremadamente difíciles
+
+98
+00:08:47,033 --> 00:08:53,100
+Para verificar la teoría, las partículas necesitaban ser perfectamente uniformes en tamaño
+
+99
+00:08:53,666 --> 00:08:56,666
+El ingenio de Perrin fue notable
+
+100
+00:08:57,533 --> 00:09:05,166
+Creó partículas de gutagamba —una resina amarilla usada en pinturas— mediante tres etapas de centrifugación
+
+101
+00:09:05,466 --> 00:09:10,433
+Preparó partículas uniformemente dimensionadas en 0,3 μm
+
+102
+00:09:10,766 --> 00:09:15,566
+Lo que Perrin observó fue un fenómeno llamado equilibrio de sedimentación
+
+103
+00:09:16,000 --> 00:09:20,166
+El aire se vuelve más delgado en las montañas altas, ¿verdad?
+
+104
+00:09:20,800 --> 00:09:24,900
+Esto ya se conocía en el siglo XIX,
+
+105
+00:09:25,400 --> 00:09:30,133
+y Boltzmann lo explicaba como moléculas de aire siendo atraídas por la gravedad terrestre,
+
+106
+00:09:30,500 --> 00:09:35,466
+volviéndose más densas cerca de la superficie y más delgadas a mayor altura
+
+107
+00:09:36,300 --> 00:09:39,700
+Pero como las moléculas de aire no podían verse,
+
+108
+00:09:40,166 --> 00:09:43,466
+su idea no podía verificarse
+
+109
+00:09:44,433 --> 00:09:49,666
+Sin embargo, Perrin, observando partículas en agua bajo el microscopio,
+
+110
+00:09:50,266 --> 00:09:57,033
+intentó verificar tanto el equilibrio de sedimentación como la teoría del movimiento browniano de Einstein
+
+111
+00:09:57,800 --> 00:10:01,166
+Luego vinieron días de experimentos y observaciones meticulosas
+
+112
+00:10:02,100 --> 00:10:06,900
+Rastreó partículas bajo el microscopio y registró sus posiciones a intervalos regulares
+
+113
+00:10:07,733 --> 00:10:09,900
+Una y otra vez
+
+114
+00:10:10,666 --> 00:10:12,533
+¿Y los resultados?
+
+115
+00:10:14,100 --> 00:10:17,966
+¡Coincidieron exactamente con la teoría de Einstein!
+
+116
+00:10:18,466 --> 00:10:22,900
+El desplazamiento cuadrático medio era efectivamente proporcional al tiempo
+
+117
+00:10:23,833 --> 00:10:28,933
+Al enterarse de estos resultados, Einstein envió una carta de agradecimiento a Perrin
+
+118
+00:10:29,800 --> 00:10:35,433
+"Pensé que sería imposible medir el movimiento browniano con tanta precisión"
+
+119
+00:10:36,200 --> 00:10:40,000
+"Fue afortunado que usted asumiera este trabajo"
+
+120
+00:10:41,300 --> 00:10:45,466
+La misma persona que propuso la teoría pensó que el experimento sería demasiado difícil,
+
+121
+00:10:46,000 --> 00:10:48,266
+pero Perrin lo logró brillantemente
+
+122
+00:10:49,100 --> 00:10:53,200
+Los experimentos de Perrin arrojaron algo aún más importante
+
+123
+00:10:53,966 --> 00:10:57,366
+Sustituyendo los datos experimentales en la ecuación de Einstein,
+
+124
+00:10:57,866 --> 00:10:59,866
+se podía determinar la constante de Boltzmann
+
+125
+00:11:00,833 --> 00:11:05,933
+Y dividiendo la constante de los gases R por la constante de Boltzmann,
+
+126
+00:11:07,200 --> 00:11:12,566
+NA = 6,5 × 10²³
+
+127
+00:11:13,866 --> 00:11:17,966
+Este es el número de partículas en un mol de sustancia:
+
+128
+00:11:18,533 --> 00:11:19,866
+el número de Avogadro
+
+129
+00:11:21,033 --> 00:11:28,266
+Hoy, el número de Avogadro se conoce como aproximadamente 6,02 × 10²³,
+
+130
+00:11:28,866 --> 00:11:32,233
+pero para esa época fue una medición extremadamente precisa
+
+131
+00:11:33,333 --> 00:11:39,533
+Sorprendentemente, este valor coincidió con los obtenidos por métodos completamente diferentes
+
+132
+00:11:40,366 --> 00:11:43,700
+La radiación del cuerpo negro de Planck, la desintegración radiactiva,
+
+133
+00:11:44,000 --> 00:11:47,566
+el experimento de la gota de aceite de Millikan, la difracción de rayos X:
+
+134
+00:11:47,833 --> 00:11:52,966
+los valores del número de Avogadro obtenidos por varios métodos coincidieron
+
+135
+00:11:53,533 --> 00:11:57,233
+Esto no puede explicarse por coincidencia, ¿verdad?
+
+136
+00:11:58,333 --> 00:12:04,433
+En 1909, Ostwald, quien había negado los átomos, admitió
+
+137
+00:12:05,900 --> 00:12:13,166
+"Estoy convencido de que recientemente hemos obtenido evidencia experimental de la hipótesis atómica"
+
+138
+00:12:14,066 --> 00:12:18,400
+"Ya no tengo razones para oponerme a la hipótesis atómica"
+
+139
+00:12:19,333 --> 00:12:24,800
+En 1926, Perrin recibió el Premio Nobel de Física
+
+140
+00:12:25,466 --> 00:12:33,366
+La mención decía: "Por su trabajo sobre la estructura discontinua de la materia, especialmente por su descubrimiento del equilibrio de sedimentación"
+
+141
+00:12:34,533 --> 00:12:42,633
+La estructura discontinua de la materia se refiere a la idea de que la materia está compuesta de pequeñas partículas llamadas átomos
+
+142
+00:12:43,733 --> 00:12:48,200
+El debate atómico terminó con la victoria de los atomistas
+
+143
+00:12:49,333 --> 00:12:56,866
+Pero no deberíamos burlarnos de los energetistas como tercos que se negaron a aceptar nuevas ideas
+
+144
+00:12:57,766 --> 00:13:05,166
+Simplemente fueron fieles a la navaja de Occam: "No se debe suponer lo que no se puede observar"
+
+145
+00:13:06,100 --> 00:13:09,866
+Su actitud era científicamente correcta
+
+146
+00:13:10,866 --> 00:13:16,466
+Lo notable de Einstein y Perrin fue que hicieron visible lo invisible
+
+147
+00:13:17,433 --> 00:13:22,500
+Demostraron la existencia de los átomos de una manera que antes era imposible
+
+148
+00:13:25,500 --> 00:13:30,300
+El movimiento browniano fue descubierto en 1827,
+
+149
+00:13:30,700 --> 00:13:36,100
+y durante unos 80 años, el misterioso movimiento de diminutas partículas permaneció sin explicación
+
+150
+00:13:36,866 --> 00:13:40,166
+Einstein fue quien lo resolvió teóricamente
+
+151
+00:13:41,466 --> 00:13:43,633
+Usando la mecánica estadística,
+
+152
+00:13:43,833 --> 00:13:49,100
+construyó una teoría que conectaba las partículas visibles con los átomos invisibles
+
+153
+00:13:49,966 --> 00:13:54,133
+Y Perrin, mediante experimentación persistente, verificó la teoría
+
+154
+00:13:54,666 --> 00:13:57,566
+y puso fin al debate atómico
+
+155
+00:13:58,766 --> 00:14:03,033
+La existencia de los átomos que damos por sentada hoy:
+
+156
+00:14:03,566 --> 00:14:07,566
+antes de convertirse en una existencia empíricamente probada con fundamento científico,
+
+157
+00:14:08,033 --> 00:14:12,700
+requirió los esfuerzos acumulados y el ingenio de muchas personas
+
+158
+00:14:13,866 --> 00:14:16,400
+Hacer visible lo invisible:
+
+159
+00:14:17,200 --> 00:14:22,600
+ejemplos más recientes incluyen las oscilaciones de neutrinos y las ondas gravitacionales
+
+160
+00:14:23,500 --> 00:14:27,466
+Espero haber transmitido algo del romance de la ciencia
+
+161
+00:14:28,333 --> 00:14:31,933
+¡Hasta el próximo video, cuídense!
